@@ -61,8 +61,8 @@ smart-support-desk-RAG-LLM/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/smart-support-desk.git
-cd smart-support-desk
+git clone https://github.com/your-username/smart-support-desk-rag-llm.git
+cd smart-support-desk-rag-llm
 ```
 
 ### 2. Install dependencies
@@ -85,7 +85,7 @@ MINICPM_KEY=your_api_key_here
 
 ### 4. Run the notebook
 ```bash
-jupyter notebook notebook/Smart_Support_Desk.ipynb
+jupyter notebook notebook/Smart_Support_Desk-RAG-LLM.ipynb
 ```
 
 ---
