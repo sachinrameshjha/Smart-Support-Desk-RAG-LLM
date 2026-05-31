@@ -1,0 +1,18 @@
+company_knowledge = {
+    "ids": [
+        "policy_1",
+        "policy_2",
+        "policy_3",
+        "policy_4",
+        "policy_5",
+        "policy_6",
+    ],
+    "chunks": [
+        "Refund Policy: Customers can get a full refund within 30 days of purchase if the item is unused.",
+        "Shipping Delay: standard delivery takes 3-5 business days. Express shipping takes 1-2 days.",
+        "Technical Crash: If the app crashes, instruct user to clear cache, restart app, or re-install.",
+        "Exchange Policy: Items can be exchanged for a different size or color within 45 days of purchase, even if opened, as long as they are undamaged.",
+        "Damaged Items: If an item arrives damaged, the customer must provide a photo within 48 hours of delivery to receive a free replacement.",
+        "Payment Methods: We accept all major credit cards, PayPal, and Apple Pay. We do not accept cash on delivery or personal checks.",
+    ],
+}
