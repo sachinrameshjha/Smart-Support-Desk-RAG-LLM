@@ -1,0 +1,38 @@
+# Environment variables — NEVER commit your API keys
+.env
+.env.local
+.env.*
+
+# ChromaDB local vector store (auto-generated, not needed in repo)
+company_support_db/
+chroma_db/
+*.chroma
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
