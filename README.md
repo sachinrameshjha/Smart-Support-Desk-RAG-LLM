@@ -45,7 +45,7 @@ Customer Email
 ## 📂 Project Structure
 
 ```
-smart-support-desk/
+smart-support-desk-RAG-LLM/
 ├── notebook/
 │   └── Smart_Support_Desk.ipynb   # Full working notebook
 ├── data/
