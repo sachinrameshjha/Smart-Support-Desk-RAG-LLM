@@ -61,7 +61,7 @@ smart-support-desk-RAG-LLM/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/smart-support-desk-rag-llm.git
+git clone https://github.com/sachinrameshjha/smart-support-desk-rag-llm.git
 cd smart-support-desk-rag-llm
 ```
 
